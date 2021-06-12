@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TonyJohnAbbey
-- 👀 I’m Data Scientist with Servify
+- 👀 I’m a Data Scientist with Servify
 - 🌱 My Favorite Language is Python
 - 💞️ I’m looking to collaborate on Fintech Projects
 - 📫 How to reach me on my email : tony100abbey@gmail.com
